@@ -1,0 +1,14 @@
+<deploy>
+    <configuration>
+        <path>~/AccountConfiguration/*</path>
+    </configuration>
+    <files>
+        <path>~/FileCabinet/none/*</path>
+    </files>
+    <objects>
+        <path>~/src/Objects/customscript_jj_sl_filter_custome_hgpl10.xml</path>
+    </objects>
+    <translationimports>
+        <path>~/Translations/*</path>
+    </translationimports>
+</deploy>
